@@ -1,3 +1,4 @@
+# rename this file as twitter_api_key.py
 consumer_key = ""
 consumer_secret = ""
 
